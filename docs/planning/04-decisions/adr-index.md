@@ -94,6 +94,7 @@ The initial ADR queue is:
 | ADR | Title | Status | File |
 |---|---|---|---|
 | ADR-0001 | CLI-First Product Surface | Accepted | ADR-0001-cli-first-product-surface.md |
+| ADR-0002 | TypeScript and Bun Implementation Baseline | Accepted | ADR-0002-typescript-and-bun-implementation-baseline.md |
 
 ## 7. Superseded ADRs
 
