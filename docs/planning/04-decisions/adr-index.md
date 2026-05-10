@@ -91,7 +91,9 @@ The initial ADR queue is:
 
 ## 6. Accepted ADRs
 
-No ADRs have been accepted yet.
+| ADR | Title | Status | File |
+|---|---|---|---|
+| ADR-0001 | CLI-First Product Surface | Accepted | ADR-0001-cli-first-product-surface.md |
 
 ## 7. Superseded ADRs
 
